@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SilentlySbano/Proffy/blob/master/logo.svg" width="150" style="max-width:100%;">
+  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/logo.svg" width="150" style="max-width:100%;">
 </p>
 <h2>
   <a id="user-content--índice" class="anchor" aria-hidden="true" href="#-índice">
