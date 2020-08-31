@@ -64,7 +64,11 @@
 </h2>
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69214919/89739509-b01e3100-da57-11ea-9653-1cfd42bfd78c.png" width="700" style="max-width:100%;">
-  <img src="https://user-images.githubusercontent.com/69214919/89739512-b3192180-da57-11ea-92c4-46b2bf20fc68.png" width="700" style="max-width:100%;"><br>
-  Desenvolvido por Ivan Carlos Morcelli Sbano
+  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/capa.png" width="700" style="max-width:100%;">
+  
+  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/print3.png" width="700" style="max-width:100%;">
+  
+  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/print1.png" width="700" style="max-width:100%;"><br>
+  
 </p>
+<p>Desenvolvido por Ivan Carlos Morcelli Sbano</p>
