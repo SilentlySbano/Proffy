@@ -2,8 +2,8 @@
   <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/proffy.png" width="150"><br>
   <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/logo.svg" width="150" style="max-width:100%;">
 </p>
- <p id='nlw'>🚀 Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy. </p>
----
+## <p id='nlw'>🚀 Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy. </p>
+
 ## <p id='proffy'>📚 Proffy </p>
 
 O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
