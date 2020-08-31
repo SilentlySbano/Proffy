@@ -46,7 +46,7 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
   <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre
 </h2>
   <p>Este é um projeto desenvolvido durante a Next Level Week #2
-  , realizada pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> durante os dias 3 à 9 de Agosto de 2020.
+ , realizada pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> durante os dias 3 à 9 de Agosto de 2020.
 <hr></hr>
 
 <h2>
