@@ -5,7 +5,7 @@
 
 ---
 
-## <p id='nlw'> Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy. </p>
+## <p> Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy. </p>
   
 ---
 
