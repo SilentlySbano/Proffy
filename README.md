@@ -68,7 +68,6 @@
   
   <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/print3.png" width="700" style="max-width:100%;">
   
-  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/print1.png" width="700" style="max-width:100%;"><br>
-  
+  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/print1.png" width="700" style="max-width:100%;">
 </p>
 <p>Desenvolvido por Ivan Carlos Morcelli Sbano</p>
