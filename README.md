@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/proffy.png" width="150" style="max-width:50%;">
+  <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/proffy.png" width="150">
   <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/logo.svg" width="150" style="max-width:100%;">
 </p>
 <h2>
