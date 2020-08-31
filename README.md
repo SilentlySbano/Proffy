@@ -72,6 +72,6 @@
   <img src="https://github.com/SilentlySbano/Proffy/blob/master/GitHub/print1.png" width="700" style="max-width:100%;">
 </p>
 <p>Desenvolvido por Ivan Carlos Morcelli Sbano<br>
-<a href="mailto:contato.nightsicms@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img class="upload" src="https://img.shields.io/badge/-contato.nightsicms@hotmail.com-c14438?style=flat-square&logo=hotmail&logoColor=white&link=mailto:contato.nightsicms@hotmail.com" alt="upload" style="cursor: pointer; border-radius: 3px; padding: 2rem 0px; max-height: 300px; object-fit: contain;">
+<a href="mailto:nightsicms@hotmail.com" target="_blank" rel="noopener noreferrer">
+  <img class="upload" src="https://img.shields.io/badge/-nightsicms@hotmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:nightsicms@hotmail.com" alt="upload" style="cursor: pointer; border-radius: 3px; padding: 2rem 0px; max-height: 300px; object-fit: contain;">
 <a/></p>
